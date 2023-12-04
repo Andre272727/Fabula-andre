@@ -1,14 +1,21 @@
 <fable>
     <page background="fundofab.jpeg" soundtrack="soundtrackpok.mp3">
+        
         <agent text="UM PIKACHU SELVAGEM APARECEU! ARRASTE A POKEBOLA ATÉ ELE PARA CAPTURÁ-LO!" x="50" y="440" color="white" font-size="17"/>
+        
         <agent img="pikachu.png" x="190" y="140" width="150" height="150" drop-zone="placa">
             <finalizar x="-200"/>
             <placa img="ArrowSign.png" x="450" y="250" width="50" height="50" on-touch="_NEXT_PAGE"/>
         </agent>
+        
         <agent img="Pokebola.png" x="225" y="1" width="50" height="50" draggable="true" on-drop="placa"/>
+        
     </page>
+    
     <page background="fundofab.jpeg">
         <agent text="INFELIZMENTE, O PIKACHU ESCAPOU DA POKEBOLA... :(" x="50" y="440" color="red" font-size="25">
         <agent video="Download.mp4" x="100" y="0" width="200" height="180"/>
+            
     </page>
+    
 </fable>
