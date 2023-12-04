@@ -9,7 +9,7 @@
     </page>
     <page background="fundofab.jpeg">
         <agent text="INFELIZMENTE, O PIKACHU ESCAPOU DA POKEBOLA... :(" x="50" y="440" color="red" font-size="25">
-        <agent video="Download.mp4" x="50" y="50" width="" height="300"/>
+        <agent video="Download.mp4" x="100" y="100" width="100" height="100"/>
         </agent>
     </page>
 </fable>
