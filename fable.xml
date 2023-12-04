@@ -7,7 +7,7 @@
         </agent>
         <agent img="Pokebola.png" x="225" y="1" width="50" height="50" draggable="true" on-drop="placa"/>
     </page>
-    <page background=>
+    <page background="fundofa">
         <agent text="INFELIZMENTE, O PIKACHU ESCAPOU DA POKEBOLA... :(" x="50" y="440" color="red" font-size="25">
         <agent video="Download.mp4" x="100" y="100" width="10" height="10"/>
         </agent>
