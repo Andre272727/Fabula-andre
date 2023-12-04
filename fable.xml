@@ -14,7 +14,7 @@
     
     <page background="fundofab.jpeg">
         <agent text="INFELIZMENTE, O PIKACHU ESCAPOU DA POKEBOLA... :(" x="50" y="440" color="red" font-size="25"/>
-        <agent video="pikachucadeira.mp4" x="75" y="90" width="380" height="380">
+        <agent video="pikachucadeira.mp4" x="55" y="90" width="380" height="380">
     </page>
     
 </fable>
